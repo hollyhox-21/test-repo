@@ -10,4 +10,9 @@ func main() {
 	var pA *[2]int = &a
 
 	fmt.Println(a, *pA)
+
+	fmt.Println("asdfg")
+
+	fmt.Println("asdfasdf")
+
 }
